@@ -1,17 +1,20 @@
 CRM = {
   :people => [
+
     {
       :id => 1,
       :first_name => "Whitney",
       :last_name => "Domenic",
       :employments => []
     },
+
     {
       :id => 2,
       :first_name => "Savannah",
       :last_name => "Clementina",
       :employments => []
     },
+
     {
       :id => 3,
       :first_name => "Elyse",
